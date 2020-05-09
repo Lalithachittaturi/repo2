@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1810-3BDB
+
+ Directory of C:\Users\VINUTHNA\Desktop\myproject
+
+09-May-20  10:58 AM    <DIR>          .
+09-May-20  10:58 AM    <DIR>          ..
+09-May-20  10:58 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,421,552,128 bytes free
